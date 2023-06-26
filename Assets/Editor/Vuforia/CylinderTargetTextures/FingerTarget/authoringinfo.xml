@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="ThumbMk3" version="3.0" targetId="8e8e48f16ca14fbf95266685aa4a5b5a" sideLength="0.032000" topDiameter="0.022200" bottomDiameter="0.022200" sideImage="ThumbMk3.Body_scaled.jpg"/>
+        <CylinderTarget name="FingerMk3" version="3.0" targetId="7d5a4d4b007e41fb820c2f5d90d481ec" sideLength="0.032000" topDiameter="0.022200" bottomDiameter="0.022200" sideImage="FingerMk3.Body_scaled.jpg"/>
+        <CylinderTarget name="NewTest" version="3.0" targetId="ad65f653b86f42b9b683871c6181ce23" sideLength="0.032000" topDiameter="0.022200" bottomDiameter="0.022200" sideImage="NewTest.Body_scaled.jpg"/>
+        <CylinderTarget name="Pointer2" version="3.0" targetId="3226241e9f394c1396153c78cd194221" sideLength="0.032000" topDiameter="0.022200" bottomDiameter="0.022200" sideImage="Pointer2.Body_scaled.jpg"/>
+        <CylinderTarget name="Pointer" version="3.0" targetId="eacdb8d5073c43acb34a8561e2bbe389" sideLength="0.028600" topDiameter="0.018200" bottomDiameter="0.018200" sideImage="Pointer.Body_scaled.jpg"/>
+        <CylinderTarget name="Thumb" version="3.0" targetId="049b92976c7c41d59cc6b01488be6460" sideLength="0.032000" topDiameter="0.022200" bottomDiameter="0.022200" sideImage="Thumb.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>

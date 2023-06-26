@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <CylinderTarget name="ThumbMk3" sideLength="0.032000"/>
+    <CylinderTarget name="FingerMk3" sideLength="0.032000"/>
+    <CylinderTarget name="NewTest" sideLength="0.032000"/>
+    <CylinderTarget name="Pointer2" sideLength="0.032000"/>
+    <CylinderTarget name="Pointer" sideLength="0.028600"/>
+    <CylinderTarget name="Thumb" sideLength="0.032000"/>
+  </Tracking>
+</QCARConfig>

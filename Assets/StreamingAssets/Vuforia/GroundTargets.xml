@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="PhysAugMarker4" size="0.050000 0.050000" />
+    <ImageTarget name="PhysAugMarker3" size="0.050000 0.050000" />
+    <ImageTarget name="PhysAugMarker2" size="0.050000 0.050000" />
+    <ImageTarget name="PhysAugMarker1" size="0.050000 0.050000" />
+    <ImageTarget name="Marker-00" size="0.210000 0.210000" />
+    <ImageTarget name="ImageTarget" size="0.050000 0.050000" />
+  </Tracking>
+</QCARConfig>
